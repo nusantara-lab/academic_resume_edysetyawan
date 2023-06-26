@@ -22,7 +22,8 @@ organizations:
     url: https://www.auckland.ac.nz/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I have a strong interest in wildlife research focusing on the population dynamics and spatial movement ecology of elasmobranch. While my main focus has been on manta rays and whale sharks, I am also keen on conducting research on other elasmobranch species, such as thresher sharks, walking sharks, and zebra sharks.
+My research involves the use of photographic identification (photo ID), passive acoustic telemetry, satellite telemetry, drones, and remote sensing to examine the population dynamics and spatial movement ecology of manta ray populations in Indonesia (mainly in Raja Ampat – Bird’s Head Seascape) and New Zealand..
 
 # Interests to show in About widget
 interests:
@@ -38,7 +39,7 @@ education:
     - course: PhD in Marine Science
       institution: The University of Auckland
       year: 2023
-    - course: Master of Applied Science in Marine Environment
+    - course: MSc in Marine Environment
       institution: The University of Tasmania
       year: 2016
     - course: BSc in Marine Science
