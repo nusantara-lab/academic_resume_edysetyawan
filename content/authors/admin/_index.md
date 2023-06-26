@@ -19,28 +19,30 @@ role: Manta researcher
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: The University of Auckland
-    url: https://www.stanford.edu/
+    url: https://www.auckland.ac.nz/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Animal movements
+  - Satellite telemetry
+  - Acoustic telemetry
+  - Drones
+  - Population dynamics
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: PhD in Marine Science
+      institution: The University of Auckland
+      year: 2023
+    - course: Master of Applied Science in Marine Environment
+      institution: The University of Tasmania
+      year: 2016
+    - course: BSc in Marine Science
+      institution: IPB University
       year: 2008
 
 # Social/Academic Networking
