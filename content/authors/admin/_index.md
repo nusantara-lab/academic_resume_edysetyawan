@@ -22,7 +22,7 @@ organizations:
     url: https://www.auckland.ac.nz/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I have a strong interest in wildlife research focusing on the population dynamics and spatial movement ecology of elasmobranch. While my main focus has been on manta rays and whale sharks, I am also keen on conducting research on other elasmobranch species, such as thresher sharks, walking sharks, and zebra sharks. My research involves the use of photographic identification (photo ID), passive acoustic telemetry, satellite telemetry, drones, and remote sensing to examine the population dynamics and spatial movement ecology of manta ray populations in Indonesia (mainly in Raja Ampat – Bird’s Head Seascape) and New Zealand..
+bio: I have a strong interest in wildlife research focusing on the population dynamics and spatial movement ecology of elasmobranch. While my main focus has been on manta rays and whale sharks, I am also keen on conducting research on other elasmobranch species, such as thresher sharks, walking sharks, and zebra sharks. My research involves the use of photographic identification (photo ID), passive acoustic telemetry, satellite telemetry, drones, and remote sensing to examine the population dynamics and spatial movement ecology of manta ray populations in Indonesia (mainly in Raja Ampat – Bird’s Head Seascape) and New Zealand.
 
 # Interests to show in About widget
 interests:
@@ -82,5 +82,4 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+Edy Setyawan is an Indonesian manta ray scientist who is currently working independently. His research interests include population dynamics and spatial movement ecology of manta ray and other elasmobranch. {style="text-align: justify;"}
