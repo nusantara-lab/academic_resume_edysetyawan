@@ -55,32 +55,32 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/edy_setyawan7
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=SKaJSLcAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/nusantara-lab
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/edysetyawan/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
+  - icon: #cv
     icon_pack: ai
     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'edysetyawan@gmail.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Edy Setyawan is an Indonesian manta ray scientist who is currently working independently. His research interests include population dynamics and spatial movement ecology of manta ray and other elasmobranch.
+Edy Setyawan is an Indonesian manta ray scientist who is currently working independently. His research interests include the population dynamics and spatial movement ecology of both species of manta rays (reef manta rays and oceanic manta rays).
 {style="text-align: justify;"}
