@@ -2,7 +2,8 @@
 title: "An example journal article"
 authors:
 - admin
-- Robert Ford
+- Muhamad Izuan
+
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
