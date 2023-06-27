@@ -6,7 +6,18 @@ title: 'Population estimates of photo-identified individuals using a modified PO
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  - Stevenson, Ben
+  - Erdmann, Mark
+  - Hasan, Abdi
+  - Sianipar, Abraham
+  - Mofu, Imanuel
+  - Putra, Mochamad
+  - Izuan, Muhamad
+  - Ambafen, Orgenes
+  - Fewster, Rachel
+  - Aldridge-Sutton, Robin
+  - Mambrasar, Ronald
+  - Constantine, Rochelle
 
 # Author notes (optional)
 author_notes:
@@ -29,10 +40,10 @@ publication_types: ['1']
 publication: In *Wowchemy Conference*
 publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The 6.7-million-hectare Raja Ampat archipelago is home to Indonesia’s largest reef manta ray (Mobula alfredi) population and a representative network of nine marine protected areas (MPAs). However, the population dynamics of M. alfredi in the region are still largely unknown. Using our photo-identification database, we fitted modified POPAN mark-recapture models with transience and per capita recruitment parameters to estimate key demographic characteristics of M. alfredi from two of Raja Ampat’s largest MPAs: Dampier Strait and South East (SE) Misool. A total of 1,041 unique individuals were photo-identified over an 11-year period (2009–2019) from Dampier Strait (n = 515) and SE Misool (n = 536). In our models, apparent survival probabilities and per capita recruitment rates were strongly linked with El Niño–Southern Oscillation (ENSO) events. Our models also estimated high apparent survival probabilities and significant increases in (sub)population sizes in both MPAs over a decade. In Dampier Strait, the estimated population size increased significantly (p = 0.018) from 226 (95% CI: 161, 283) to 317 (280, 355 individuals. Likewise, the estimated population size in SE Misool increased significantly (p = 0.008) from 210 (137, 308) to 511 (393, 618) individuals. Regardless of variation in the percentage change in population size between years throughout the study, the estimated overall population change shows a compound growth of 3.9% (0.7, 8.6) per annum in Dampier Strait and 10.7% (4.3, 16.1) per annum in SE Misool. Despite the global decline in oceanic sharks and rays due to fishing pressure in the last five decades, our study demonstrates the positive impact of a suite of long-term conservation efforts, coupled with the influence of ENSO events, on increasing M. alfredi abundance in Raja Ampat MPAs. Our study also underscores the importance of long-term monitoring to evaluate the effectiveness of conservation management measures on manta ray populations. Our modification of the standard POPAN model by incorporating per capita recruitment and transience parameters represents an important advance in mark-recapture modelling that should prove useful when examining other manta ray populations and other highly migratory species that are likely to have a substantial percentage of transient individuals.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Reef manta ray populations in Raja Ampat increased significantly over a decade due to positive impact of long-term conservation efforts and influence of ENSO events.
 
 tags: []
 
