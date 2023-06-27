@@ -82,5 +82,5 @@ email: 'edysetyawan@gmail.com'
 highlight_name: true
 ---
 
-Edy Setyawan is an Indonesian manta ray scientist who is currently working independently. His research interests include the population dynamics and spatial movement ecology of both species of manta rays (reef manta rays and oceanic manta rays).
+Edy Setyawan is an Indonesian manta ray scientist and a National Geographic Explorer, who is currently working independently. His research interests include the population dynamics and spatial movement ecology of both species of manta rays (reef manta rays and oceanic manta rays).
 {style="text-align: justify;"}
