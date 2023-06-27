@@ -6,23 +6,22 @@ title: 'Population estimates of photo-identified individuals using a modified PO
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Stevenson, Ben
-  - Erdmann, Mark
-  - Hasan, Abdi
-  - Sianipar, Abraham
-  - Mofu, Imanuel
-  - Putra, Mochamad
-  - Izuan, Muhamad
-  - Ambafen, Orgenes
-  - Fewster, Rachel
-  - Aldridge-Sutton, Robin
-  - Mambrasar, Ronald
-  - Constantine, Rochelle
+  - Ben Stevenson
+  - Mark V. Erdmann
+  - Abdi W. Hasan
+  - Abraham B. Sianipar
+  - Imanuel Mofu
+  - Mochamad Putra
+  - Muhamad Izuan
+  - Orgenes Ambafen
+  - Rachel M. Fewster
+  - Robin Aldridge-Sutton
+  - Ronald Mambrasar
+  - Rochelle Constantine
 
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+  - 'Lead author'
 
 date: '2022-05-26T00:00:00Z'
 doi: ''
