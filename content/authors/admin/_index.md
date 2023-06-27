@@ -31,6 +31,7 @@ interests:
   - Acoustic telemetry
   - Drones
   - Population dynamics
+  - Network analysis
 
 # Education to show in About widget
 education:
