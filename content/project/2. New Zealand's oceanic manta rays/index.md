@@ -1,5 +1,5 @@
 ---
-title: Example Project
+title: Unravel The Secret Lives of Manta Rays in Aoteroa New Zealand
 summary: An example of using the in-built project page.
 tags:
   - Deep Learning
