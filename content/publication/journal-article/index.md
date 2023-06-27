@@ -1,8 +1,9 @@
 ---
-title: "An example journal article"
+title: 'Population estimates of photo-identified individuals using a modified POPAN model reveal that Raja Ampat’s reef manta rays are thriving'
 authors:
 - admin
-- Robert Ford
+- Mark Erdmann
+- Muhamad Izuan
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
