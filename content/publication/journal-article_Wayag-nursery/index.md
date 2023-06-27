@@ -1,9 +1,9 @@
 ---
 title: "Residency and Use of an Important Nursery Habitat, Raja Ampat’s Wayag Lagoon, by Juvenile Reef Manta Rays (Mobula alfredi)"
 authors:
-- Setyawan Edy, 
-- Erdmann Mark V.
-- Mambrasar Ronald
+- Edy Setyawan 
+- Mark Erdmann
+- Ronald Mambrasar 
 - Hasan Abdi W.
 - Sianipar Abraham B.
 - Constantine Rochelle
