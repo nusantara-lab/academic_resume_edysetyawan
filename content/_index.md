@@ -145,10 +145,10 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
+        - name: Manta rays
+          tag: Manta rays
+        - name: Drones
+          tag: Drones
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
@@ -211,7 +211,7 @@ sections:
       text: |-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
+      email: edysetyawan@gmail.com
       phone: 888 888 88 88
       appointment_url: 'https://calendly.com'
       address:
