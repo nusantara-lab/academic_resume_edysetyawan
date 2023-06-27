@@ -1,5 +1,5 @@
 ---
-title: 'An example conference paper'
+title: 'Population estimates of photo-identified individuals using a modified POPAN model reveal that Raja Ampat’s reef manta rays are thriving'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
