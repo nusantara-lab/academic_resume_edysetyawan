@@ -2,18 +2,18 @@
 title: "Population estimates of photo-identified individuals using a modified POPAN model reveal that Raja Ampat’s reef manta rays are thriving"
 authors:
 - admin
-- Stevenson, Ben
-- Erdmann, Mark
-- Hasan, Abdi
-- Sianipar, Abraham
-- Mofu, Imanuel
-- Putra, Mochamad
-- Izuan, Muhamad
-- Ambafen, Orgenes
-- Fewster, Rachel
-- Aldridge-Sutton, Robin
-- Mambrasar, Ronald
-- Constantine, Rochelle
+- Ben Stevenson
+- Mark V. Erdmann
+- Abdi W. Hasan
+- Abraham B. Sianipar
+- Imanuel Mofu
+- Mochamad Putra
+- Muhamad Izuan
+- Orgenes Ambafen
+- Rachel M. Fewster
+- Robin Aldridge-Sutton
+- Ronald Mambrasar
+- Rochelle Constantine
 
 author_notes:
 - "Lead author"
@@ -47,7 +47,7 @@ featured: false
 # - name: ""
 #   url: ""
 url_pdf: https://www.frontiersin.org/articles/10.3389/fmars.2022.1014791/full
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
